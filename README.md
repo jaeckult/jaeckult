@@ -1,4 +1,5 @@
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jaeckult&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/jaeckult)
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=☕%20Support%20My%20Work&emoji=&slug=jaeckult&button_colour=FF5722&font_colour=FFFFFF&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/jaeckult)
+
 
 <h1 align="center">Hi 👋, I'm Yitbarek</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
